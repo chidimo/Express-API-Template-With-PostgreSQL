@@ -1,4 +1,4 @@
-# Express API Template
+# Express API Template With PostgreSQL
 
 [![Build Status](https://travis-ci.com/chidimo/Express-API-Template-With-PostgreSQL.svg?branch=master)](https://travis-ci.com/chidimo/Express-API-Template-With-PostgreSQL)
 [![Build status](https://ci.appveyor.com/api/projects/status/3hs8p946q0okvpgc/branch/master?svg=true)](https://ci.appveyor.com/project/chidimo/express-api-template-with-postgresql/branch/master)
