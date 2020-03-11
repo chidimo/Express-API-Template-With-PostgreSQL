@@ -20,7 +20,7 @@ const home = {
 
     try {
       const data = await messages.insertWithReturnId(columns, values);
-      res.status(200).json({ messages: data.rows });
+      res.status(201).json({ messages: data.rows });
     } catch (err) {
       res.status(200).json({ messages: err.stack });
     }
