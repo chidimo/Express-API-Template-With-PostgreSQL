@@ -23,5 +23,3 @@ export const addMessage = async (req, res, next) => {
     next(err);
   }
 };
-
-export default home;
